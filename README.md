@@ -21,6 +21,10 @@ We've developed an AI-powered conversational search AI agent  that:
 - Supports multimodal search, integrating text, image, and vector-based search for comprehensive product discovery.
 - Enables efficient supplier onboarding, helping them list their products with optimized searchability.
 
+## 🎥 Demo
+
+![Demo Video](demo.gif)
+
 ## 🔑 Key Features
 
 - **Hybrid Multi-modal RAG System**
@@ -51,11 +55,6 @@ We've developed an AI-powered conversational search AI agent  that:
 ## 🏗️ Architecture
 
 ![Architecture Diagram](Architecture.png)
-
-## 🎥 Demo
-
-<!-- Option 1: Direct video embed -->
-[https://user-images.githubusercontent.com/YOUR_USER_ID/AI_Search_Engine/assets/123456789/your-video-id](https://github.com/user-attachments/assets/c654bede-6dfd-4f92-a741-108887c915d4[](url)
 
 
 ## 🛠️ Technology Stack
