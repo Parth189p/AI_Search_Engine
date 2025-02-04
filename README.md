@@ -8,6 +8,12 @@
 
 An advanced AI-driven search engine designed to connect fashion suppliers and buyers through intelligent search and conversational interaction. This system leverages Large Language Models (LLMs) and Hybrid Multimodal Retrieval-Augmented Generation (RAG) to find and rank fashion products based on user queries, overcoming challenges related to keyword variations, image mismatches, and customization needs.
 
+## 📁 Repository Details
+
+This repository contains only the README to showcase the project's functionality and potential.
+
+The source code is not publicly available but can be demonstrated upon request.
+
 ## 🎯 Problem Statement
 
 Fashion suppliers often use diverse and SEO-optimized keywords that do not align with buyers' search intent. Additionally, images may not always convey the specific product features a buyer seeks. This creates a communication gap and makes it difficult for buyers to find exactly what they need. Our goal was to build an AI-powered search engine that enables seamless product discovery and enhances supplier-buyer interactions.
