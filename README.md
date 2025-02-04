@@ -55,7 +55,7 @@ We've developed an AI-powered conversational search AI agent  that:
 ## 🎥 Demo
 
 <!-- Option 1: Direct video embed -->
-https://user-images.githubusercontent.com/YOUR_USER_ID/AI_Search_Engine/assets/123456789/your-video-id
+[https://user-images.githubusercontent.com/YOUR_USER_ID/AI_Search_Engine/assets/123456789/your-video-id](https://github.com/user-attachments/assets/c654bede-6dfd-4f92-a741-108887c915d4[](url)
 
 
 ## 🛠️ Technology Stack
